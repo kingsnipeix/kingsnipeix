@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm kingsnipeix 👋
 
-<!--
-**kingsnipeix/kingsnipeix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting smooth cross-platform mobile apps with Flutter & React Native. Based in Singapore.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Quick intro</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- currently deep in fluid animations
+- learning React Native the slow way
+- probably overthinking a database schema right now
+- shipping small and often
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kingsnipeix&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=gruvbox" alt="kingsnipeix GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kingsnipeix&hide_border=true&theme=gruvbox" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-58a6ff?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Flutter-58a6ff?style=for-the-badge&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Firebase-58a6ff?style=for-the-badge&logoColor=white" alt="Firebase" />
+</p>
+
+</details>
+
+<sub>Reach me on GitHub — @kingsnipeix. Say hi if you like.</sub>
